@@ -1,0 +1,25 @@
+{
+      "our_ads1_activation":"true",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/111.png",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
+
+    "our_ads2_activation":"true",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/22.png",
+    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
+
+    "our_ads3_activation":"true",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/333.png",
+    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
+
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+
+  "unity_app_id": "5401411",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+
+  "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
+  "appLovin_banner": "c81a058f25eaa440",
+  "appLovin_interstitial": "a8d494940e48c2ea"
+}
