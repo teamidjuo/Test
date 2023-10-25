@@ -14,16 +14,16 @@
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "admob_banner": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "admob_rewarded_video": "ca-app-pub-3940256099942544/5224354917",
+  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
 
   "unity_app_id": "5450213",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
-  "unity_rewarded_video": "Rewarded_Android",
+  "unity_rewarded": "Rewarded_Android",
 
   "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
   "appLovin_banner": "c81a058f25eaa440",
   "appLovin_interstitial": "a8d494940e48c2ea",
-  "appLovin_rewarded_video": "2cfb1f3d3b32ceff",
+  "appLovin_rewarded": "2cfb1f3d3b32ceff",
       
 }
