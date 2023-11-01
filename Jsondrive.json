@@ -1,4 +1,6 @@
 {
+      "max_count_ads": "15",
+      
       "our_ads1_activation":"true",
     "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/111.png",
     "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
