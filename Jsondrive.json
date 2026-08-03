@@ -41,11 +41,11 @@
 "max_percentage": "70",
 "admob_percentage": "30",
 
-"applovin_activation": "false",
-"unity_activation": "false",
-"admob_activation": "false",
+"applovin_activation": "true",
+"unity_activation": "true",
+"admob_activation": "true",
 
-"applovin_percentage": "0",
-"unity_percentage": "0",
-"admob_percentage_non_mediation": "0"
+"applovin_percentage": "30",
+"unity_percentage": "40",
+"admob_percentage_non_mediation": "30"
 }
